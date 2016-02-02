@@ -1,6 +1,8 @@
 # securityheadercheck
 Command line tool to check the security headers of a website.
 
+Inspired by securityheaders.io, I just needed a way to quickly check headers for sites in bulk and sites not yet live.
+
 Checks for the presence of the following security headers:
 HSTS - HTTP Strict Transport Security
 CSP - Content Security Policy
