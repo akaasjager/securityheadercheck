@@ -7,7 +7,7 @@ Checks for the presence of the following security headers:
 
 * HSTS - HTTP Strict Transport Security
 * CSP - Content Security Policy
-* PKP - HTTP Public Key Pinning
+* HPKP - HTTP Public Key Pinning
 * X-Frame-Options
 * X-Xss-Protection
 * X-Content-Type-Options
